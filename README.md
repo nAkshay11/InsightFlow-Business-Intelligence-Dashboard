@@ -56,7 +56,7 @@ Features
 
 
 
-\## Technologies Used
+\Technologies Used
 
 
 
@@ -215,13 +215,9 @@ Through this project I gained practical experience in:
 
 
 
-\## Author
-
-
+\ Author
 
 Akshay Chandra
-
-
 
 Business Intelligence Dashboard Project
 
