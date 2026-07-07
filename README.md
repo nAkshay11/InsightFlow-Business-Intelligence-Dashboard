@@ -187,47 +187,6 @@ streamlit run app.py
 \---
 
 
-
-Screenshots
-
-Login Page
-![Login](screenshots/login.png)
-
-Dashboard
-
-Dashboard - Part 1
-![Dashboard 1](screenshots/dashboard1.png)
-
-Dashboard - Part 2
-![Dashboard 2](screenshots/dashboard2.png)
-
-Dashboard - Part 3
-![Dashboard 3](screenshots/dashboard3.png)
-
-Dashboard - Part 4
-![Dashboard 4](screenshots/dashboard4.png)
-
-Analytics
-
-Analytics - Part 1
-![Analytics 1](screenshots/analytics1.png)
-
-Analytics - Part 2
-![Analytics 2](screenshots/analytics2.png)
-
-Data Center
-![Data Center](screenshots/datacenter.png)
-
-SQL Studio
-![SQL Studio](screenshots/sqlstudio.png)
-
-AI Insights
-![AI Insights](screenshots/aiinsights.png)
-
-Reports
-![Reports](screenshots/reports.png)
-
-
 Learning Outcomes
 
 
