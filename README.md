@@ -190,27 +190,26 @@ streamlit run app.py
 
 Screenshots
 
+Login Page
+![Login](screenshots/login.png)
 
+ Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-Add screenshots here after uploading them.
+ Analytics
+![Analytics](screenshots/analytics.png)
 
+ Data Center
+![Data Center](screenshots/datacenter.png)
 
+ SQL Studio
+![SQL Studio](screenshots/sqlstudio.png)
 
-\- Login Page
+ AI Insights
+![AI Insights](screenshots/aiinsights.png)
 
-\- Dashboard
-
-\- Analytics
-
-\- AI Insights
-
-\- SQL Studio
-
-\- Reports
-
-
-
-\---
+ Reports
+![Reports](screenshots/reports.png)
 
 
 
