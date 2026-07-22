@@ -1,0 +1,28 @@
+InsightFlow Login Screen
+
+Purpose:
+Secure authentication for enterprise users.
+
+Components:
+- Company Logo
+- Welcome Message
+- Username
+- Password
+- Show Password
+- Remember Me
+- Forgot Password
+- Sign In Button
+- Google Login Button
+- Microsoft Login Button
+- Version Information
+
+Theme:
+Dark Modern Enterprise
+
+Colors:
+Blue
+Purple
+Dark Gray
+
+Font:
+Poppins
