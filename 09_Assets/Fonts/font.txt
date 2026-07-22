@@ -1,0 +1,19 @@
+Primary Font
+
+Poppins
+
+Secondary Font
+
+Inter
+
+Heading Weight
+
+700
+
+Body Weight
+
+400
+
+Button Weight
+
+600

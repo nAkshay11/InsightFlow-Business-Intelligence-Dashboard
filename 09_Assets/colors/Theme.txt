@@ -1,0 +1,18 @@
+InsightFlow - Enterprise Business Intelligence Platform
+
+Primary Blue      : #2563EB
+Secondary Purple  : #7C3AED
+Success Green     : #22C55E
+Warning Orange    : #F59E0B
+Danger Red        : #EF4444
+
+Background         : #0F172A
+Sidebar            : #111827
+Cards              : #1E293B
+Border             : #334155
+
+Primary Text       : #FFFFFF
+Secondary Text     : #CBD5E1
+Muted Text         : #94A3B8
+
+Accent             : #38BDF8
