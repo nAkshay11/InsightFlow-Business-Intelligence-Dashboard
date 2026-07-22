@@ -1,0 +1,170 @@
+/* ---------- BACKGROUND ---------- */
+
+.stApp{
+    background:#F3F4F6;
+}
+
+/* ---------- SIDEBAR ---------- */
+
+section[data-testid="stSidebar"]{
+    background:#232F3E;
+}
+
+section[data-testid="stSidebar"] *{
+    color:white;
+}
+
+/* ---------- BUTTON ---------- */
+
+.stButton>button{
+    background:#FF9900;
+    color:black;
+    border:none;
+    border-radius:8px;
+    height:42px;
+    font-weight:700;
+}
+
+.stButton>button:hover{
+    background:#E88B00;
+}
+
+/* ---------- METRIC ---------- */
+
+div[data-testid="metric-container"]{
+    background:white;
+    border-radius:12px;
+    padding:18px;
+    border:1px solid #E5E7EB;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+/* ---------- DATAFRAME ---------- */
+
+div[data-testid="stDataFrame"]{
+    background:white;
+    border-radius:12px;
+    padding:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+/* ---------- CHART ---------- */
+
+.js-plotly-plot{
+    background:white;
+    border-radius:12px;
+    padding:12px;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+/* ---------- HEADINGS ---------- */
+
+h1{
+    color:#232F3E;
+    font-weight:700;
+}
+
+h2{
+    color:#232F3E;
+}
+
+h3{
+    color:#232F3E;
+}
+
+/* KPI Cards */
+div[data-testid="metric-container"]{
+    background:#ffffff;
+    border-left:6px solid #FF9900;
+    border-radius:12px;
+    padding:20px;
+    box-shadow:0 2px 10px rgba(0,0,0,.10);
+}
+
+/* ===== KPI Cards ===== */
+
+div[data-testid="metric-container"]{
+    background:white;
+    border-radius:15px;
+    padding:20px;
+    border-left:6px solid #FF9900;
+    box-shadow:0px 5px 15px rgba(0,0,0,.10);
+    transition:0.3s;
+}
+
+div[data-testid="metric-container"]:hover{
+    transform:translateY(-5px);
+    box-shadow:0px 10px 25px rgba(0,0,0,.18);
+}
+
+/* ===== Tables ===== */
+
+div[data-testid="stDataFrame"]{
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0px 5px 15px rgba(0,0,0,.10);
+}
+
+/* ===== Charts ===== */
+
+.js-plotly-plot{
+    background:white;
+    border-radius:15px;
+    padding:15px;
+    box-shadow:0px 5px 15px rgba(0,0,0,.10);
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+    background:#232F3E;
+}
+
+section[data-testid="stSidebar"] *{
+    color:white;
+}
+
+section[data-testid="stSidebar"] button{
+    background:#FF9900;
+    color:black;
+    border:none;
+    border-radius:8px;
+    font-weight:bold;
+}
+
+section[data-testid="stSidebar"] button:hover{
+    background:#E68A00;
+}
+
+/* Main Page */
+
+.stApp{
+    background:#F4F6F9;
+}
+
+/* Content Container */
+
+.block-container{
+    padding-top:2rem;
+    padding-left:2rem;
+    padding-right:2rem;
+}
+
+/* KPI Cards */
+
+div[data-testid="metric-container"]{
+    background:white;
+    border-radius:15px;
+    padding:18px;
+    box-shadow:0 6px 15px rgba(0,0,0,.12);
+    border-left:5px solid #FF9900;
+}
+
+/* Charts */
+
+.js-plotly-plot{
+    background:white;
+    border-radius:15px;
+    padding:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,.10);
+}
